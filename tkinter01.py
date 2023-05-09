@@ -4,7 +4,7 @@ from tkinter import Tk, Label, Button
 #funcion mensaje con un print imprime el mensaje boton cuando le demos click al botton
 def mensaje():
     print ("Mensaje del boton")
-
+   
 #creamos el objeto ventana a partir de una clase TK
 ventana = Tk()
 #damos el tamaño a la ventana
